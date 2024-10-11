@@ -1,3 +1,4 @@
+//Ejercicio 04
 //Una tienda vende tres tipos de productos a los precios dados en la siguiente tabla:
 //Producto Precio
 //P1 S/. 15.0
