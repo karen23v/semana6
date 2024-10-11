@@ -1,4 +1,4 @@
-//Ejercicio 02
+//Ejercicio 03
 //Una dulcería vende chocolates a los precios dados en la siguiente tabla:
 //Tipo de chocolate Precio unitario
 //Primor S/. 8.5
